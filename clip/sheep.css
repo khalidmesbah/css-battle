@@ -1,0 +1,14 @@
+<p style=--:185+170>
+<p style=--:65+170>
+<p style=--r:45deg;--:165+130>
+<p style=--r:-45deg;--:165+210>
+<p style=--:125+230;--r:90deg>
+<p style=--:125+110;--r:90deg>
+<p style=--r:-45deg;--:85+130>
+<p style=--r:45deg;--:85+210>
+<p style=--g:i;--h:70;--:105+170;box-shadow:0+0+0+2em#6592CF>
+<p style=--w:10;--h:10;--:130+205>
+<p style=--w:10;--h:10;--:130+185>
+  <style>*{background:var(--g,#243d83);border-radius:var(--o,50%);position:fixed;
+    margin:var(--);transform:rotate(var(--r));width:var(--w,60);
+    height:var(--h,50)}p{--g:#6592CF
