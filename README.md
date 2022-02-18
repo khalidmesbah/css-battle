@@ -2,8 +2,10 @@
 
 ## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
+- [#1 - Simply Square](./simple%20file.html)
 ## Battle #1 - Pilot Battle
-- [#1 - Simply Square]("./../01_Pilot%20Battle/#1%20-%20Simply%20Square.html")
+
+
   ![#1 - Simply Square](./images/1.png)
 - [#2 - Carrom](./images/2.png)
   ![#2 - Carrom](./images/2.png)
