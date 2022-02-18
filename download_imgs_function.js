@@ -1,5 +1,5 @@
 // run this code in any battle section to download all the battle images
-for (let i = 10; i < 100; i++) {
+for (let i = 0; i < 1000; i++) {
   if (document.images[i].classList.contains("target-tile__image")){
     var a = document.createElement("a");
     a.href = document.images[i].src;
