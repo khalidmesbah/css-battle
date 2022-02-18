@@ -2,7 +2,7 @@
 
 ## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
-- [#1 - Simply Square](./simple%20file.html)
+- [#1 - Simply Square](./01_Pilot%20Battle/#1%20-%20Simply%20Square.html)
 ## Battle #1 - Pilot Battle
 
 
