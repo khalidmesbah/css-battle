@@ -1,6 +1,6 @@
 # CSS-Battle
 
-## [my css battle rank](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
+## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
 ## Battle #1 - Pilot Battle
 - [#1 - Simply Square]()
