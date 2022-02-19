@@ -457,7 +457,7 @@
 
   ![#98 - Candle](./images/98.png)
 
-- [ ] [#99 - Gift Box](./images/99.png)
+- [x] [#99 - Gift Box](./images/99.png)
 
   ![#99 - Gift Box](./images/99.png)
 
