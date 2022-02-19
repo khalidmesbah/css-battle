@@ -432,7 +432,7 @@
 
   ![#93 - Great Wall](./images/93.png)
 
-- [ ] [#94 - Ripples](./images/94.png)
+- [x] [#94 - Ripples](./images/94.png)
 
   ![#94 - Ripples](./images/94.png)
 
