@@ -131,11 +131,11 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #5 - Inline</summary>
 
-- [ ] [#29 - Suffocate](./images/29.png)
+- [x] [#29 - Suffocate](./05_Inline%2329%20-%20Suffocate.html)
 
   ![#29 - Suffocate](./images/29.png)
 
-- [ ] [#30 - Horizon](./images/30.png)
+- [x] [#30 - Horizon](./05_Inline%2330%20-%20Horizon.html)
 
   ![#30 - Horizon](./images/30.png)
 
@@ -143,11 +143,11 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #6 - Conic</summary>
 
-- [ ] [#31 - Equals](./images/31.png)
+- [x] [#31 - Equals](./06_Conic%2331%20-%20Equals.html)
 
 ![#31 - Equals](./images/31.png)
 
-- [ ] [#32 - Band-aid](./images/32.png)
+- [x] [#32 - Band-aid](./06_Conic/%2332%20-%20Band-aid.html)
 
 
   ![#32 - Band-aid](./images/32.png)
