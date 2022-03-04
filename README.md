@@ -50,7 +50,6 @@
 
 - [x] [#12 - Wiggly Moustache](./01_Pilot%20Battle/%2312%20-%20Wiggly%20Moustache.html)
 
-
   ![#12 - Wiggly Moustache](./images/12.png)
   </details>
 
@@ -125,7 +124,6 @@
 
 - [x] [#28 - Cups & Balls](./04_Display/%2328%20-%20Cups%20&%20Balls.html)
 
-
   ![#28 - Cups & Balls](./images/28.png)
   </details>
 
@@ -191,54 +189,57 @@
   ![#41 - Fox Head](./images/41.png)
   </details>
 
-<details> <summary style="font-size:30px;cursor:pointer">Battle #8 - Transition</summary> 
+<details> <summary style="font-size:30px;cursor:pointer">Battle #8 - Transition</summary>
 
-- [ ] [#42 - Baby](./images/42.png)
-  
+- [x] [#42 - Baby](./08_Transition/%2342%20-%20Baby.html)
+
   ![#42 - Baby](./images/42.png)
-- [ ] [#43 - Wrench](./images/43.png)
-  
+
+- [x] [#43 - Wrench](./08_Transition/%2343%20-%20Wrench.html)
+
   ![#43 - Wrench](./images/43.png)
-- [ ] [#44 - Stripes](./images/44.png)
-  
+
+- [x] [#44 - Stripes](./08_Transition/%2344%20-%20Stripes.html)
+
   ![#44 - Stripes](./images/44.png)
 
 </details>
 
-<details> <summary style="font-size:30px;cursor:pointer">Battle #9 - Margin</summary> 
+<details> <summary style="font-size:30px;cursor:pointer">Battle #9 - Margin</summary>
 
-- [ ] [#45 - Magical Tree](./images/45.png)
-  
+- [x] [#45 - Magical Tree](./09_Margin/%2345%20-%20Magical%20Tree.html)
+
   ![#45 - Magical Tree](./images/45.png)
-- [ ] [#46 - Mountains](./images/46.png)
-  
+
+- [x] [#46 - Mountains](./09_Margin/%2346%20-%20Mountains.html)
+
   ![#46 - Mountains](./images/46.png)
 
 </details>
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #10 - Block</summary>
 
-- [ ] [#47 - Corona Virus](./images/47.png)
+- [x] [#47 - Corona Virus](./10_Block/%2347%20-%20Corona%20Virus.html)
 
   ![#47 - Corona Virus](./images/47.png)
 
-- [ ] [#48 - Wash Your Hands](./images/48.png)
+- [x] [#48 - Wash Your Hands](./10_Block/%2348%20-%20Wash%20Your%20Hands.html)
 
   ![#48 - Wash Your Hands](./images/48.png)
 
-- [ ] [#49 - Stay at Home](./images/49.png)
+- [x] [#49 - Stay at Home](./10_Block/%2349%20-%20Stay%20at%20Home.html)
 
   ![#49 - Stay at Home](./images/49.png)
 
-- [ ] [#50 - Use Hand Sanitizer](./images/50.png)
+- [x] [#50 - Use Hand Sanitizer](./10_Block/%2350%20-%20Use%20Hand%20Sanitizer.html)
 
   ![#50 - Use Hand Sanitizer](./images/50.png)
 
-- [ ] [#51 - Wear a Mask](./images/51.png)
+- [x] [#51 - Wear a Mask](./10_Block/%2351%20-%20Wear%20a%20Mask.html)
 
   ![#51 - Wear a Mask](./images/51.png)
 
-- [ ] [#52 - Break the Chain](./images/52.png)
+- [x] [#52 - Break the Chain](./10_Block/%2352%20-%20Break%20the%20Chain.html)
 
   ![#52 - Break the Chain](./images/52.png)
 
@@ -246,35 +247,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #11 - Overflow</summary>
 
-- [ ] [#53 - Pastel Logo](./images/53.png)
+- [x] [#53 - Pastel Logo](./11_Overflow/%2353%20-%20Pastel%20Logo.html)
 
   ![#53 - Pastel Logo](./images/53.png)
 
-- [ ] [#54 - Black Lives Matter](./images/54.png)
+- [x] [#54 - Black Lives Matter](./11_Overflow/%2354%20-%20Black%20Lives%20Matter.html)
 
   ![#54 - Black Lives Matter](./images/54.png)
 
-- [ ] [#55 - Windmill](./images/55.png)
+- [x] [#55 - Windmill](./11_Overflow/%2355%20-%20Windmill.html)
 
   ![#55 - Windmill](./images/55.png)
 
-- [ ] [#56 - Skull](./images/56.png)
+- [x] [#56 - Skull](./11_Overflow/%2356%20-%20Skull.html)
 
   ![#56 - Skull](./images/56.png)
 
-- [ ] [#57 - Pillars](./images/57.png)
+- [x] [#57 - Pillars](./11_Overflow/%2357%20-%20Pillars.html)
 
   ![#57 - Pillars](./images/57.png)
 
-- [ ] [#58 - Rose](./images/58.png)
+- [x] [#58 - Rose](./11_Overflow/%2358%20-%20Rose.html)
 
   ![#58 - Rose](./images/58.png)
 
-- [ ] [#59 - Earth](./images/59.png)
+- [x] [#59 - Earth](./11_Overflow/%2359%20-%20Earth.html)
 
   ![#59 - Earth](./images/59.png)
 
-- [ ] [#60 - Evil Triangles](./images/60.png)
+- [x] [#60 - Evil Triangles](./11_Overflow/%2360%20-%20Evil%20Triangles.html)
 
   ![#60 - Evil Triangles](./images/60.png)
 
@@ -282,35 +283,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #12 - Blend</summary>
 
-- [ ] [#61 - ImprovMX](./images/61.png)
+- [x] [#61 - ImprovMX](./12_Blend/%2361%20-%20ImprovMX.html)
 
   ![#61 - ImprovMX](./images/61.png)
 
-- [ ] [#62 - Sunset](./images/62.png)
+- [x] [#62 - Sunset](./12_Blend/%2362%20-%20Sunset.html)
 
   ![#62 - Sunset](./images/62.png)
 
-- [ ] [#63 - Command Key](./images/63.png)
+- [x] [#63 - Command Key](./12_Blend/%2363%20-%20Command%20Key.html)
 
   ![#63 - Command Key](./images/63.png)
 
-- [ ] [#64 - Door Knob](./images/64.png)
+- [x] [#64 - Door Knob](./12_Blend/%2364%20-%20Door%20Knob.html)
 
   ![#64 - Door Knob](./images/64.png)
 
-- [ ] [#65 - Max Volume](./images/65.png)
+- [x] [#65 - Max Volume](./12_Blend/%2365%20-%20Max%20Volume.html)
 
   ![#65 - Max Volume](./images/65.png)
 
-- [ ] [#66 - Batmicky](./images/66.png)
+- [x] [#66 - Batmicky](./12_Blend/%2366%20-%20Batmicky.html)
 
   ![#66 - Batmicky](./images/66.png)
 
-- [ ] [#67 - Video Reel](./images/67.png)
+- [x] [#67 - Video Reel](./12_Blend/%2367%20-%20Video%20Reel.html)
 
   ![#67 - Video Reel](./images/67.png)
 
-- [ ] [#68 - Bell](./images/68.png)
+- [x] [#68 - Bell](./12_Blend/%2368%20-%20Bell.html)
 
   ![#68 - Bell](./images/68.png)
 
@@ -318,35 +319,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #13 - Clip</summary>
 
-- [ ] [#69 - PushOwl](./images/69.png)
+- [x] [#69 - PushOwl](./13_Clip/%2369%20-%20PushOwl.html)
 
   ![#69 - PushOwl](./images/69.png)
 
-- [ ] [#70 - Froggy](./images/70.png)
+- [x] [#70 - Froggy](./13_Clip/%2370%20-%20Froggy.html)
 
   ![#70 - Froggy](./images/70.png)
 
-- [ ] [#71 - Elephant](./images/71.png)
+- [x] [#71 - Elephant](./13_Clip/#71%20-%20Elephant.html)
 
   ![#71 - Elephant](./images/71.png)
 
-- [ ] [#72 - Sheep](./images/72.png)
+- [x] [#72 - Sheep](./13_Clip/%2372%20-%20Sheep.html)
 
   ![#72 - Sheep](./images/72.png)
 
-- [ ] [#73 - Happy Tiger](./images/73.png)
+- [x] [#73 - Happy Tiger](./13_Clip/%2373%20-%20Happy%20Tiger.html)
 
   ![#73 - Happy Tiger](./images/73.png)
 
-- [ ] [#74 - Danger Noodle](./images/74.png)
+- [x] [#74 - Danger Noodle](./13_Clip/%2374%20-%20Danger%20Noodle.html)
 
   ![#74 - Danger Noodle](./images/74.png)
 
-- [ ] [#75 - Hippo](./images/75.png)
+- [x] [#75 - Hippo](./13_Clip/%2375%20-%20Hippo.html)
 
   ![#75 - Hippo](./images/75.png)
 
-- [ ] [#76 - Beeee](./images/76.png)
+- [x] [#76 - Beeee](./13_Clip/%2376%20-%20Beeee.html)
 
   ![#76 - Beeee](./images/76.png)
 
@@ -354,19 +355,19 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #14 - Zindex</summary>
 
-- [ ] [#77 - Notes](./images/77.png)
+- [x] [#77 - Notes](./14_Zindex/%2377%20-%20Notes.html)
 
   ![#77 - Notes](./images/77.png)
 
-- [ ] [#78 - Ukulele](./images/78.png)
+- [x] [#78 - Ukulele](./14_Zindex/%2378%20-%20Ukulele.html)
 
   ![#78 - Ukulele](./images/78.png)
 
-- [ ] [#79 - Tambourine](./images/79.png)
+- [x] [#79 - Tambourine](./14_Zindex/%2379%20-%20Tambourine.html)
 
   ![#79 - Tambourine](./images/79.png)
 
-- [ ] [#80 - Piano](./images/80.png)
+- [x] [#80 - Piano](./14_Zindex/%2380%20-%20Piano.html)
 
   ![#80 - Piano](./images/80.png)
 
@@ -374,35 +375,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #15 - Filter</summary>
 
-- [ ] [#81 - Odoo](./images/81.png)
+- [x] [#81 - Odoo](./15_Filter/%2381%20-%20Odoo.html)
 
   ![#81 - Odoo](./images/81.png)
 
-- [ ] [#82 - Diamond Cut](./images/82.png)
+- [x] [#82 - Diamond Cut](./15_Filter/%2382%20-%20Diamond%20Cut.html)
 
   ![#82 - Diamond Cut](./images/82.png)
 
-- [ ] [#83 - Supernova](./images/83.png)
+- [x] [#83 - Supernova](./15_Filter/%2383%20-%20Supernova.html)
 
   ![#83 - Supernova](./images/83.png)
 
-- [ ] [#84 - Junction](./images/84.png)
+- [x] [#84 - Junction](./15_Filter/%2384%20-%20Junction.html)
 
   ![#84 - Junction](./images/84.png)
 
-- [ ] [#85 - Pythagoras](./images/85.png)
+- [x] [#85 - Pythagoras](./15_Filter/%2385%20-%20Pythagoras.html)
 
   ![#85 - Pythagoras](./images/85.png)
 
-- [ ] [#86 - Stairway](./images/86.png)
+- [x] [#86 - Stairway](./15_Filter/%2386%20-%20Stairway.html)
 
   ![#86 - Stairway](./images/86.png)
 
-- [ ] [#87 - Building Blocks](./images/87.png)
+- [x] [#87 - Building Blocks](./15_Filter/%2387%20-%20Building%20Blocks.html)
 
   ![#87 - Building Blocks](./images/87.png)
 
-- [ ] [#88 - Tight Corner](./images/88.png)
+- [x] [#88 - Tight Corner](./15_Filter/%2388%20-%20Tight%20Corner.html)
 
   ![#88 - Tight Corner](./images/88.png)
 
@@ -410,35 +411,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #16 - Aspect</summary>
 
-- [ ] [#89 - Summit](./images/89.png)
+- [x] [#89 - Summit](./16_Aspect/%2389%20-%20Summit.html)
 
   ![#89 - Summit](./images/89.png)
 
-- [ ] [#90 - Eclipse](./images/90.png)
+- [x] [#90 - Eclipse](./16_Aspect/%2390%20-%20Eclipse.html)
 
   ![#90 - Eclipse](./images/90.png)
 
-- [ ] [#91 - Reflection](./images/91.png)
+- [x] [#91 - Reflection](./16_Aspect/%2391%20-%20Reflection.html)
 
   ![#91 - Reflection](./images/91.png)
 
-- [ ] [#92 - Squeeze](./images/92.png)
+- [x] [#92 - Squeeze](./16_Aspect/%2392%20-%20Squeeze.html)
 
   ![#92 - Squeeze](./images/92.png)
 
-- [ ] [#93 - Great Wall](./images/93.png)
+- [x] [#93 - Great Wall](./16_Aspect/%2393%20-%20Great%20Wall.html)
 
   ![#93 - Great Wall](./images/93.png)
 
-- [x] [#94 - Ripples](./images/94.png)
+- [x] [#94 - Ripples](./16_Aspect/%2394%20-%20Ripples.html)
 
   ![#94 - Ripples](./images/94.png)
 
-- [ ] [#95 - Pokeball](./images/95.png)
+- [x] [#95 - Pokeball](./16_Aspect/%2395%20-%20Pokeball.html)
 
   ![#95 - Pokeball](./images/95.png)
 
-- [ ] [#96 - Mandala](./images/96.png)
+- [x] [#96 - Mandala](./16_Aspect/%2396%20-%20Mandala.html)
 
   ![#96 - Mandala](./images/96.png)
 
@@ -447,19 +448,19 @@
 <details>
  <summary style="font-size:30px;cursor:pointer">Battle #17 - Christmas</summary>
 
-- [ ] [#97 - Snowman](./images/97.png)
+- [x] [#97 - Snowman](./17_Christmas/%2397%20-%20Snowman.html)
 
   ![#97 - Snowman](./images/97.png)
 
-- [ ] [#98 - Candle](./images/98.png)
+- [x] [#98 - Candle](./17_Christmas/%2398%20-%20Candle.html)
 
   ![#98 - Candle](./images/98.png)
 
-- [x] [#99 - Gift Box](./images/99.png)
+- [x] [#99 - Gift Box](./17_Christmas/%2399%20-%20Gift%20Box.html)
 
   ![#99 - Gift Box](./images/99.png)
 
-- [ ] [#100 - CSSBattle](./images/100.png)
+- [x] [#100 - CSSBattle](./17_Christmas/%23100%20-%20CSSBattle.html)
 
   ![#100 - CSSBattle](./images/100.png)
 
