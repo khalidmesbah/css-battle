@@ -56,28 +56,27 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #2 - Visibility</summary>
 
-- [ ] [#13 - Totally Triangle](./images/13.png)
+- [x] [#13 - Totally Triangle](./02_Visibility/%2313%20-%20Totally%20Triangle.html)
 
   ![#13 - Totally Triangle](./images/13.png)
 
-- [ ] [#14 - Web Maker Logo](./images/14.png)
+- [x] [#14 - Web Maker Logo](./02_Visibility/#14%20-%20Web%20Maker%20Logo.html)
 
   ![#14 - Web Maker Logo](./images/14.png)
 
-- [ ] [#15 - Overlap](./images/15.png)
+- [x] [#15 - Overlap](./02_Visibility/#15%20-%20Overlap.html)
 
   ![#15 - Overlap](./images/15.png)
 
-- [ ] [#16 - Eye of The Tiger](./images/16.png)
+- [x] [#16 - Eye of The Tiger](./02_Visibility/#16%20-%20Eye%20of%20the%20Tiger.html)
 
   ![#16 - Eye of The Tiger](./images/16.png)
 
-- [ ] [#17 - Fidget Spinner](./images/17.png)
+- [x] [#17 - Fidget Spinner](./02_Visibility/%2317%20-%20Fidget%20Spinner.html)
 
   ![#17 - Fidget Spinner](./images/17.png)
 
-- [ ] [#18 - Matrix](./images/18.png)
-
+- [x] [#18 - Matrix](./02_Visibility/#18%20-%20Matrix.html)
 
   ![#18 - Matrix](./images/18.png)
   </details>
