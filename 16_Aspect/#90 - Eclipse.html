@@ -1,37 +1,36 @@
-<div a></div>
-<div b></div>
-<div c></div>
+<p p p1>
+<p p p2>
+<p p p3>
+  <style>
+    body {
+      margin: -16;
+      background: #f3ac3c
+    }
 
-<style>
-  *{
-    background:#F3AC3C;
-  }
-  [a] {
-    position:absolute;
-    top:-250;
-    left:00;
-  background:#998235;
-    width:400;
-    height:400;
-    border-radius:50%
-  }
-  [b]{
-    position:absolute;
-    top:25;
-    left:75;
-  background:#1A4341;
-    width:200;
-    height:200;
-    border:25px solid #F3AC3C;
-    border-radius:50%
-  }
-  [c] {
-    position:absolute;
-    top:150;
-    left:0;
-  background:#998235;
-    width:400;
-    height:400;
-    border-radius:50%
-  }
-</style>
+    p {
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, var(--y));
+      width: var(--size);
+      height: var(--size);
+      border-radius: 100%
+    }
+
+    [p1] {
+      --y: -250px;
+      --size: 400px;
+      background: #998235
+    }
+
+    [p2] {
+      --y: 25px;
+      --size: 250px;
+      box-sizing: border-box;
+      border: 25px solid #f3ac3c;
+      background: #1a4341
+    }
+
+    [p3] {
+      --y: 150px;
+      --size: 400px;
+      background: #998235

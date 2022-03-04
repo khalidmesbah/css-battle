@@ -1,74 +1,19 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
-<div e></div>
-<div f></div>
-<style>
-  body{
-    background:#191919;
-  }
-  [a]{
-    position:fixed;
-    background:#F9E492;
-    width:20;
-    height:100;
-    border-radius:20px;
-    left:190;
-    bottom:45;
-  }
-  [b]{
-    position:fixed;
-    background:#F9E492;
-    width:40;
-    height:40;
-    border-radius:20px;
-    left:180;
-    bottom:115;
-  }
-  [c]{
-    position:fixed;
-    background:#4F77FF;
-    width:100;
-    height:100;
-  	border-radius:50px;
-    left:150;
-    bottom:135;
-  }
-  [d]{
-    position:fixed;
-    background:#4F77FF;
-    width:140;
-    height:30;
-    border:10px solid #191919;
-  	border-top-left-radius:20px;
-    border-top-right-radius:20px;
-    border-bottom-left-radius:50px;
-    border-bottom-right-radius:50px;
-    left:120;
-    bottom:175;
-  }
-  [e]{
-    position:fixed;
-    background:#4F77FF;
-    width:100;
-    height:30;
-    border:10px solid #191919;
-  	border-top-left-radius:20px;
-    border-top-right-radius:20px;
-    border-bottom-left-radius:50px;
-    border-bottom-right-radius:50px;
-    left:140;
-    bottom:195;
-  }
-  [f]{
-    position:fixed;
-    background:#4F77FF;
-    width:30;
-    height:30;
-    border:10px solid #191919;
-    border-radius:30px;
-    left:175;
-    bottom:215;
-  }
-</style>
+<p style=--p:50+10;--g:#F9E492;--o:10q;--:155+190>
+<p style=--p:20;--g:#F9E492;--:145+180>
+<p style=--p:50;--:65+150>
+<p style=--p:15+70;--o:7q+7q+31q+31q;--:85+130;--b:0+0+0+11q>
+<p style=--p:15+50;--:65+150;--o:7q+7q+31q+31q;--b:0+0+0+11q>
+<p style=--:45+185;--p:15;--b:0+0+0+11q>
+  <style>
+    * {
+      color: 191919;
+      margin: var(--);
+      background: var(--g, #191919);
+      padding: var(--p);
+      position: fixed;
+      border-radius: var(--o, 50%);
+      box-shadow: var(--b)
+    }
+
+    p {
+      --g: #4F77FF

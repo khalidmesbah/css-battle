@@ -1,57 +1,37 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
-<div e></div>
-<style>
-  body{
-    background:#191919;
-  }
+<p a>
+<p b>
+<p c>
+<p d>
+  <style>
+    [a] {
+      border: 50px solid#0000;
+      border-top-color: #4f77ff;
+      --: 75+100;
+      -webkit-box-reflect: right
+    }
 
-  [a]{
-    position:absolute;
-    top:75;
-    left:100;
-    border-top:50px solid #4F77FF;
-    border-left:50px solid transparent;
-    border-right:50px solid transparent;
-	-webkit-box-reflect:right;
-  }
+    [b],
+    [c] {
+      --p: 35;
+      --g: #0000;
+      border: solid#4f77ff;
+      border-width: 0 0 35px 35px;
+      transform: rotate(-45deg);
+      --: 98
+    }
 
-  [b]{
-    position:absolute;
-    top:150;
-    left:100;
-	width:50;
-    height:50;
-    transform:skewY(45deg); 	 
-    background:#4F77FF;
-  }
-  [c]{
-    position:absolute;
-    top:150;
-    left:150;
-	width:50;
-    height:50;
-    transform:skewY(-45deg); 	 
-    background:#4F77FF;
-  }
-  [d]{
-    position:absolute;
-    top:150;
-    left:250;
-	width:50;
-    height:50;
-    transform:skewY(-45deg); 	 
-    background:#4F77FF;
-  }
-  [e]{
-    position:absolute;
-    top:150;
-    left:200;
-	width:50;
-    height:50;
-    transform:skewY(45deg); 	 
-    background:#4F77FF;
-  }
-</style>
+    [c] {
+      --: 98+198
+    }
+
+    [d] {
+      --p: 70+15;
+      --: 70;
+      -webkit-box-reflect: right 53mm
+    }
+
+    * {
+      margin: var(--);
+      padding: var(--p);
+      position: fixed;
+      background: var(--g, #191919

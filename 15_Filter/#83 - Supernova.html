@@ -1,47 +1,30 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
-<style>
-  *{
-    background:#243D83;
-  }
-  [a] {
-    position:absolute;
-    left:90;
-    top:100;
-    background:#6592CF;
-    width: 220px;
-    height: 100px;
-    transform:rotate(45deg);
-    border-radius:70px;
-  }
-  [b]{
-    position:absolute;
-    left:90;
-    top:100;
-    background:#6592CF;
-    width: 220px;
-    height: 100px;
-    transform:rotate(-45deg);
-    border-radius:70px;
-  }
-  [c]{
-    position:absolute;
-    left:140;
-    top:90;
-    background:#243D83;
-    width: 120px;
-    height: 120px;
-    transform:rotate(-45deg);
-  }
-  [d]{
-    position:absolute;
-    left:170;
-    top:120;
-    background:#EEB850;
-    width: 60px;
-    height: 60px;
-    border-radius:70px;
-  }
-</style>
+<p>
+<p style=transform:rotate(-45deg)><i><a>
+      <style>
+        * {
+          margin: var(--);
+          padding: var(--p);
+          background: var(--g, #243d83);
+          border-radius: var(--o, 90q);
+          position: fixed
+        }
+
+        i {
+          --g: #243D83;
+          --p: 60;
+          --: -60;
+          --o: 0
+        }
+
+        a {
+          --g: #eeb850;
+          --p: 30;
+          --: -30;
+          --o: 50%
+        }
+
+        p {
+          --p: 50+110;
+          --g: #6592cf;
+          --: 100+90;
+          transform: rotate(45deg

@@ -1,39 +1,21 @@
-<div>
-  <span></span>
-  <span></span>
-</div>
+<a>
+  <p>
+    <style>
+      a {
+        inset: 53q+106q;
+        --g: #fff1c1;
+        border-radius: 50%;
+        overflow: hidden;
+        position: fixed
+      }
 
-<style>
-  *{
-    margin:0;
-    background: #293462;
-  }
-  div {
-    position:relative;
-    left:100;
-    top:50;
-    width: 200px;
-    height: 200px;
-    background: #FFF1C1;
-    border-radius:50%;
-	overflow:hidden;
-  }
-  div>span:nth-child(1){
-    width:200;
-    height:200;
-    position:absolute;
-    background:#FE5F55;
-    top:100;
-    left:41;
-    transform:rotate(45deg);
-  }
-    div>span:nth-child(2){
-    width:50;
-    height:50;
-    position:absolute;
-    background:#FE5F55;
-    top:139;
-    left:5;
-    transform:rotate(45deg);
-  }
-</style>
+      p {
+        padding: 100;
+        --g: #FE5F55;
+        transform: rotate(45deg);
+        margin: 100+41;
+        box-shadow: -31q+136q+0#FE5F55
+      }
+
+      * {
+        background: var(--g, #293462

@@ -1,92 +1,17 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
-<div e></div>
-<div f></div>
-<div g></div>
-<div h></div>
-<div i></div>
-<style>
-  *{
-    background:#191919;
-    margin:0;
-  }
-  [a]{
-    position:fixed;
-    top:66;
-    left:175;
-    width: 30px;
-    border:10px solid #5DBCF9;
-    height: 20px;
-  }
-  [b]{
-    position:fixed;
-    top:96;
-    left:150;
-    width: 80px;
-    border:10px solid #5DBCF9;
-    height: 50px;
-    border-bottom:unset;
-  }
-  [c]{
-    position:fixed;
-    top:134;
-    left:195;
-    width: 10px;
-	background:#5DBCF9;
-    height: 60px;
-  }
-  [d]{
-    position:fixed;
-    top:204;
-    left:100;
-    width: 200px;
-	background:#5DBCF9;
-    height: 10px;
-  }
-  [e]{
-    position:fixed;
-    top:224;
-    left:145;
-    width: 110px;
-	background:#5DBCF9;
-    height: 10px;
-  }
-  [f]{
-    position:fixed;
-    top:170;
-    left:129;
-    width: 10px;
-	background:#5DBCF9;
-    height: 24px;
-    transform:skewX(30deg)
-  }
-  [g]{
-    position:fixed;
-    top:107;
-    left:159;
-    width: 10px;
-	background:#5DBCF9;
-    height: 90px;
-    transform: rotate(60deg);
-  }
-  [h]{
-    position:fixed;
-    top:107;
-    left:231;
-    width: 10px;
-	background:#5DBCF9;
-    height: 90px;
-    transform: rotate(-60deg);
-  }
-  [i]{
-    position:fixed;
-    top:170;
-    left:261;
-    width: 10px;
-	background:#5DBCF9;
-    height: 24px;
-    transform:skewX(-30deg)
-  }
-</style>
+<p style=--p:15;--:66+175>
+<p style=--p:27+40;--:96+150;border-bottom:0>
+<p style=--p:15+40;--:146+126;border-bottom:0;border-right:0;transform:rotate(-30deg);--g:#0000>
+<p style=--p:15+40;--:146+184;border-bottom:0;border-left:0;transform:rotate(30deg);--g:#0000>
+<p style=--p:30+0;--:130+195;border-width:5px>
+<p style=border-width:5px;--p:0+95;--:204+100;box-shadow:0+0+0+10px#191919>
+<p style=border-width:5px;--p:0+50;--:224+145>
+  <style>
+    * {
+      margin: var(--);
+      background: var(--g, #191919);
+      position: fixed
+    }
+
+    p {
+      border: 10px solid#5DBCF9;
+      padding: var(--p

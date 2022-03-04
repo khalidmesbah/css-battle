@@ -1,82 +1,51 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
-<div e></div>
-<div f></div>
-<div g></div>
-<style>
-  *{
-    background:#191919;
-  }
-  [a]{
-    position:absolute;
-    top:75;
-    left:145;
-    width:20;
-    height:10;
-    background:#000000;
-    border:5px solid #FE5F55;
-    border-radius:50%;
-    transform:rotate(45deg);
-}
-  [b]{
-    position:absolute;
-    top:75;
-    left:225;
-    width:20;
-    height:10;
-    background:#000000;
-    border:5px solid #FE5F55;
-    border-radius:50%;
-    transform:rotate(-45deg);
-}
-  [c]{
-    position:absolute;
-    top:75;
-    left:135;
-    width:130;
-    height:100;
-    border-radius:60px 60px 0 0;
-    background:#FE5F55;
-  }
-  [d]{
-    position:absolute;
-    top:125;
-    left:160;
-    width:10;
-    height:10;
-    border-radius:50%;
-    background:#191919;
-    -webkit-box-reflect:right 60px;
-  }
-  [e]{
-    position:absolute;
-    top:145;
-    left:125;
-    width:150;
-    height:100;
-	border-radius:55px 55px 45px 45px;
-    background:#A64942;
-  }
-  [f]{
-    position:absolute;
-    top:170;
-    left:145;
-    width:30;
-    height:20;
-	border-radius:50%;
-    background:#000000;
-    transform:rotate(-45deg);
-  }
-  [g]{
-    position:absolute;
-    top:170;
-    left:225;
-    width:30;
-    height:20;
-	border-radius:50%;
-    background:#000000;
-    transform:rotate(45deg);
-  }
-</style>
+<p a>
+<p a style=--o:45deg;--:70+230>
+<p b><i>
+    <p c>
+    <p d>
+    <p d style=--o:-45deg;--:165+230>
+      <style>
+        [a],
+        [d] {
+          --g: #000;
+          --p: 10+5;
+          --o: -45deg;
+          border: 5px solid#fe5f55;
+          --: 70+150
+        }
+
+        [b] {
+          --g: #fe5f55;
+          --p: 50+65;
+          --: 75+135;
+          --r: 62q+62q+0+0
+        }
+
+        i {
+          --g: #000;
+          --r: 50%;
+          --p: 5;
+          --: 0-40;
+          box-shadow: 73q+0
+        }
+
+        [c] {
+          --g: #a64942;
+          --p: 50+75;
+          --: 145+125;
+          --r: 62q+62q+3em+3em
+        }
+
+        [d] {
+          --o: 45deg;
+          border: 5px solid;
+          --: 165+150
+        }
+
+        * {
+          position: fixed;
+          padding: var(--p);
+          margin: var(--);
+          background: var(--g, #191919);
+          border-radius: var(--r, 50%);
+          transform: rotate(var(--o

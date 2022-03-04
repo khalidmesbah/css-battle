@@ -1,67 +1,73 @@
-<div a></div>
-<div b></div>
-<div c></div>
-<div d></div>
+<div class="absolute-center">
+  <div class="flex">
+    <div class="circle"></div>
+    <div class="circle"></div>
+    <div class="circle"></div>
+  </div>
+  <div class="absolute-center flex">
+    <div class="line"></div>
+    <div class="line"></div>
+  </div>
+</div>
 <style>
-  *{
-    background:#6592CF;
-    margin:0;
+  body {
+    margin: 0;
+    background: #6592cf
   }
-  [a] {
-    position:relative;
-    top:50;
-    left:100;
-  background:#243D83;
-    width:200;
-    height:200;
-    border-radius:50%
+
+  .absolute-center {
+    position: absolute;
+    width: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
   }
-  [a]:after{
-    position:absolute;
-    content:'';
-    top:0;
-    left:-226;
-  background:#243D83;
-    width:200;
-    height:200;
-    border-radius:50%
+
+  .flex {
+    display: flex
   }
-  [a]:before{
-    position:absolute;
-    content:'';
-    top:0;
-    left:226;
-  background:#243D83;
-    width:200;
-    height:200;
-    border-radius:50%
+
+  .circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: #243d83
   }
-  [b]{
-    position:absolute;
-    top:125;
-    left:0;
-  background:#243D83;
-    width:500;
-    height:50;
+
+  .circle:not(:first-of-type) {
+    margin-left: 26px
   }
-  [c]{
-    position:absolute;
-    top:65;
-    left:71;
-  background:#6592CF;
-    width:32;
-    height:75;
-    border-radius:50px;
-    -webkit-box-reflect:below 19px;
+
+  .line {
+    position: relative;
+    width: 50px;
+    height: 40px;
+    background: #243d83
   }
-  [d]{
-    position:absolute;
-    top:65;
-    left:297;
-  background:#6592CF;
-    width:32;
-    height:75;
-    border-radius:50px;
-    -webkit-box-reflect:below 19px;
+
+  .line:not(:first-of-type) {
+    margin-left: 176px
   }
-</style>
+
+  .line:before {
+    content: "";
+    position: absolute;
+    width: 31.5px;
+    height: 31.5px;
+    border-radius: 100%;
+    background: #6592cf;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -41.5px)
+  }
+
+  .line:after {
+    content: "";
+    position: absolute;
+    width: 31.5px;
+    height: 31.5px;
+    border-radius: 100%;
+    background: #6592cf;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 10px

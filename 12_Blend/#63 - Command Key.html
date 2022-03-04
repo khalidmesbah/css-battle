@@ -1,34 +1,63 @@
-<div a>
-  <div b></div>
-</div>
-<div c></div>
+<div id="c1"></div>
+<div id="c2"></div>
+<div id="c3"></div>
+<div id="c4"></div>
+<div id="s"></div>
 <style>
-  *{
-    background:#191919;
-    margin:0;
+  body {
+    position: relative;
+    background: #191919
   }
-  [a]{
-    -webkit-box-reflect:below 158px;
-  }
-  [b]{
-    position:relative;
-    top:54;
-    left:106;
+
+  #s {
     width: 50px;
-	border:10px solid #5DBCF9;
-    border-top-left-radius:150%;
-    border-top-right-radius:150%;
-    border-bottom-left-radius:150%;
-    border-bottom-right-radius:0px;
     height: 50px;
-    -webkit-box-reflect:right 50px;
+    background: #191919;
+    position: absolute;
+    border: 10px solid #5dbcf9;
+    margin-top: 106px;
+    margin-left: 158px
   }
-  [c]{
-    position:fixed;
-    width:50;
-    height:50;
-    top:114;
-    left:166;
-    border:10px solid #5DBCF9;
+
+  #c1 {
+    width: 50px;
+    height: 50px;
+    background: #191919;
+    position: absolute;
+    margin-top: 46px;
+    margin-left: 98px;
+    border: 10px solid #5dbcf9;
+    border-radius: 50% 50% 1% 50%
   }
-</style>
+
+  #c2 {
+    width: 50px;
+    height: 50px;
+    background: #191919;
+    position: absolute;
+    margin-top: 46px;
+    margin-left: 218px;
+    border: 10px solid #5dbcf9;
+    border-radius: 50% 50% 50% 1%
+  }
+
+  #c3 {
+    width: 50px;
+    height: 50px;
+    background: #191919;
+    position: absolute;
+    margin-left: 218;
+    margin-top: 166;
+    border: 10px solid #5dbcf9;
+    border-radius: 1% 50% 50% 50%
+  }
+
+  #c4 {
+    width: 50px;
+    height: 50px;
+    background: #191919;
+    position: absolute;
+    margin-left: 98;
+    margin-top: 166;
+    border: 10px solid #5DBCF9;
+    border-radius: 50% 1% 50% 50%
