@@ -327,7 +327,7 @@
 
   ![#70 - Froggy](./images/70.png)
 
-- [x] [#71 - Elephant](./13_Clip/#71%20-%20Elephant.html)
+- [x] [#71 - Elephant](./13_Clip/%2371%20-%20Elephant.html)
 
   ![#71 - Elephant](./images/71.png)
 
