@@ -1,47 +1,37 @@
-<div class='container'>
-  <div class='b1'></div>
-  <div class='c1 y'></div>
-  <div class='c1'></div>
-  <div class='b1  y'></div>
-</div>
-<div class='container cl1'>
-  <div class='c1 y t'></div>
-  <div class='b1'></div>
-  <div class='b1 y'></div>
-  <div class='c1 t'></div>
-</div>
+<p>
+<p i>
+<p j>
+<p k>
+<p a>
+<p b>
+<p c>
+<p d>
+  <style>
+    * {
+      background: var(--g, #1a4341);
+      margin: 40 0 0 30
+    }
 
-<style>
-  body{
-    margin:0;
-    padding:80 60;
-    background:#1A4341;
-  }
-  .container {
-    display:flex;
-    flex-direction:row;
-    width:300;
-    flex-wrap: wrap;
-  }
-  .b1 {
-    width:50;
-    height:50;
- 	margin:10 10 0 10;
-    border-radius:25px;
-    background: #998235;
-  }
-  .c1 {
-    width:50;
-    height:50;
- 	margin:10 10 10 10;
-    border-top-left-radius:25px;
-    border-top-right-radius:25px;
-    background: #998235;
-  }
-  .y{
-    background:#F3AC3C;
-  }
-  .t{
-    transform:rotate(180deg)
-  }
-</style>
+    [i],
+    [j] {
+      --: 50%50%0%0
+    }
+
+    [a],
+    [d] {
+      --: 0%0%50%50%
+    }
+
+    [i],
+    [k],
+    [a],
+    [c] {
+      --g: #f3ac3c
+    }
+
+    p {
+      float: left;
+      padding: 25;
+      --g: #998235;
+      margin: 10;
+      border-radius: var(--, 50%

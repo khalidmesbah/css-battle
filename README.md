@@ -95,35 +95,35 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #4 - Display</summary>
 
-- [ ] [#21 - SitePoint Logo](./images/21.png)
+- [x] [#21 - SitePoint Logo](./04_Display/%2321%20-%20SitePoint%20Logo.html)
 
   ![#21 - SitePoint Logo](./images/21.png)
 
-- [ ] [#22 - Cloud](./images/22.png)
+- [x] [#22 - Cloud](./04_Display/%2322%20-%20Cloud.html)
 
   ![#22 - Cloud](./images/22.png)
 
-- [ ] [#23 - Boxception](./images/23.png)
+- [x] [#23 - Boxception](./04_Display/%2323%20-%20Boxception.html)
 
   ![#23 - Boxception](./images/23.png)
 
-- [ ] [#24 - Switches](./images/24.png)
+- [x] [#24 - Switches](./04_Display/%2324%20-%20Switches.html)
 
   ![#24 - Switches](./images/24.png)
 
-- [ ] [#25 - Blossom](./images/25.png)
+- [x] [#25 - Blossom](./04_Display/%2325%20-%20Blossom.html)
 
   ![#25 - Blossom](./images/25.png)
 
-- [ ] [#26 - Smiley](./images/26.png)
+- [x] [#26 - Smiley](./04_Display/%2326%20-%20Smiley.html)
 
   ![#26 - Smiley](./images/26.png)
 
-- [ ] [#27 - Lock Up](./images/27.png)
+- [x] [#27 - Lock Up](./04_Display/%2327%20-%20Lock%20Up.html)
 
   ![#27 - Lock Up](./images/27.png)
 
-- [ ] [#28 - Cups & Balls](./images/28.png)
+- [x] [#28 - Cups & Balls](./04_Display/%2328%20-%20Cups%20&%20Balls.html)
 
 
   ![#28 - Cups & Balls](./images/28.png)
