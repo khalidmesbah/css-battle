@@ -83,11 +83,11 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #3 - Cursor</summary>
 
-- [ ] [#19 - Cube](./images/19.png)
+- [x] [#19 - Cube](./03_Cursor/%2319%20-%20Cube.html)
 
   ![#19 - Cube](./images/19.png)
 
-- [ ] [#20 - Ticket](./images/20.png)
+- [x] [#20 - Ticket](./03_Cursor/%2320%20-%20Ticket.html)
 
   ![#20 - Ticket](./images/20.png)
 

@@ -1,33 +1,16 @@
-<div class='sq1'></div>
-<div class='sq2'></div>
-<div class='sq2 sq3'></div>
-<style>
-  *{
-    margin:0;
-    background:#0B2429;
-  }
-  .sq1 {
-    position:absolute;
-    transform:rotate(45deg);
-    top:135;
-    left:150;
-    width: 100px;
-    height: 100px;
-    background: #F3AC3C;
-  }
-   .sq2 {
-    position:absolute;
-    transform:rotate(45deg) skew(45deg );
-    top:90;
-    left:185;
-    width: 100px;
-    height: 50px;
-    background: #1A4341;
-  }
-  .sq3 {    
-    transform:rotate(-45deg) skew(-45deg );
-    top:90;
-    left:114.5;
-    background: #998235;
-  }
-</style>
+<p style=--p:50;--g:#F3AC3C;--t:rotate(45deg);--:135+150>
+<p style=--g:#998235;--t:skewY(-45deg);--:80+130>
+<p>
+  <style>
+    * {
+      margin: var(--);
+      position: fixed;
+      transform: var(--t);
+      background: var(--g, #0B2429)
+    }
+
+    P {
+      padding: var(--p, 35);
+      --g: #1A4341;
+      --: 80+200;
+      --t: skewY(45deg
