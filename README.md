@@ -154,39 +154,39 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #7 - Backface</summary>
 
-- [ ] [#33 - Birdie](./images/33.png)
+- [x] [#33 - Birdie](./07_Backface/%2333%20-%20Birdie.html)
 
   ![#33 - Birdie](./images/33.png)
 
-- [ ] [#34 - Christmas Tree](./images/34.png)
+- [x] [#34 - Christmas Tree](./07_Backface/%2334%20-%20Christmas%20Tree.html)
 
   ![#34 - Christmas Tree](./images/34.png)
 
-- [ ] [#35 - Ice Cream](./images/35.png)
+- [x] [#35 - Ice Cream](./07_Backface/%2335%20-%20Ice%20Cream.html)
 
   ![#35 - Ice Cream](./images/35.png)
 
-- [ ] [#36 - Interleaved](./images/36.png)
+- [x] [#36 - Interleaved](./07_Backface/%2336%20-%20Interleaved.html)
 
   ![#36 - Interleaved](./images/36.png)
 
-- [ ] [#37 - Tunnel](./images/37.png)
+- [x] [#37 - Tunnel](./07_Backface/%2337%20-%20Tunnel.html)
 
   ![#37 - Tunnel](./images/37.png)
 
-- [ ] [#38 - Not Simply Square](./images/38.png)
+- [x] [#38 - Not Simply Square](./07_Backface/%2338%20-%20Not%20Simply%20Square.html)
 
   ![#38 - Not Simply Square](./images/38.png)
 
-- [ ] [#39 - Sunset](./images/39.png)
+- [x] [#39 - Sunset](./07_Backface/%2339%20-%20Sunset.html)
 
   ![#39 - Sunset](./images/39.png)
 
-- [ ] [#40 - Letter B](./images/40.png)
+- [x] [#40 - Letter B](./07_Backface/%2340%20-%20Letter%20B.html)
 
   ![#40 - Letter B](./images/40.png)
 
-- [ ] [#41 - Fox Head](./images/41.png)
+- [x] [#41 - Fox Head](./07_Backface/%2341%20-%20Fox%20Head.html)
 
   ![#41 - Fox Head](./images/41.png)
   </details>
