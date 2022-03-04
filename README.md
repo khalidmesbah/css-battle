@@ -4,51 +4,51 @@
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #1 - Pilot Battle</summary>
 
-- [ ] [#1 - Simply Square](./01_Pilot%20Battle/%231%20-%20Simply%20Square.html)
+- [x] [#1 - Simply Square](./01_Pilot%20Battle/%231%20-%20Simply%20Square.html)
 
   ![#1 - Simply Square](./images/1.png)
 
-- [ ] [#2 - Carrom](./01_Pilot%20Battle/../01_Pilot%20Battle/%232%20-%20%20Carrom.html)
+- [x] [#2 - Carrom](./01_Pilot%20Battle/../01_Pilot%20Battle/%232%20-%20%20Carrom.html)
 
   ![#2 - Carrom](./images/2.png)
 
-- [ ] [#3 - Push Button](./01_Pilot%20Battle/233%20-%20Push%20Button.html)
+- [x] [#3 - Push Button](./01_Pilot%20Battle/%233%20-%20Push%20Button.html)
 
   ![#3 - Push Button](./images/3.png)
 
-- [ ] [#4 - Ups n Downs](./01_Pilot%20Battle/../01_Pilot%20Battle/%234%20-%20Ups%20n%20Downs.html)
+- [x] [#4 - Ups n Downs](./01_Pilot%20Battle/../01_Pilot%20Battle/%234%20-%20Ups%20n%20Downs.html)
 
   ![#4 - Ups n Downs](./images/4.png)
 
-- [ ] [#5 - Acid Rain](./01_Pilot%20Battle/../01_Pilot%20Battle/%235%20-%20Acid%20Rain.html)
+- [x] [#5 - Acid Rain](./01_Pilot%20Battle/../01_Pilot%20Battle/%235%20-%20Acid%20Rain.html)
 
   ![#5 - Acid Rain](./images/5.png)
 
-- [ ] [#6 - Missing Slice](./01_Pilot%20Battle/%236%20-%20Missing%20Slice.html)
+- [x] [#6 - Missing Slice](./01_Pilot%20Battle/%236%20-%20Missing%20Slice.html)
 
   ![#6 - Missing Slice](./images/6.png)
 
-- [ ] [#7 - Leafy Trail](./01_Pilot%20Battle/%237%20-%20Leafy%20Trail.html)
+- [x] [#7 - Leafy Trail](./01_Pilot%20Battle/%237%20-%20Leafy%20Trail.html)
 
   ![#7 - Leafy Trail](./images/7.png)
 
-- [ ] [#8 - Forking Crazy](./01_Pilot%20Battle/%238%20-%20Forking%20Crazy.html)
+- [x] [#8 - Forking Crazy](./01_Pilot%20Battle/%238%20-%20Forking%20Crazy.html)
 
   ![#8 - Forking Crazy](./images/8.png)
 
-- [ ] [#9 - Tesseract](./01_Pilot%20Battle/%239%20-%20Tesseract.html)
+- [x] [#9 - Tesseract](./01_Pilot%20Battle/%239%20-%20Tesseract.html)
 
   ![#9 - Tesseract](./images/9.png)
 
-- [ ] [#10 - Cloaked Spirits](./01_Pilot%20Battle/$2310%20-%20Cloaked%20Spirits.html)
+- [x] [#10 - Cloaked Spirits](./01_Pilot%20Battle/%2310%20-%20Cloaked%20Spirits.html)
 
   ![#10 - Cloaked Spirits](./images/10.png)
 
-- [ ] [#11 - Eye of Sauron](/01_Pilot%20Battle/%2311%20-%20Eye%20of%20Sauron.html)
+- [x] [#11 - Eye of Sauron](/01_Pilot%20Battle/%2311%20-%20Eye%20of%20Sauron.html)
 
   ![#11 - Eye of Sauron](./images/11.png)
 
-- [ ] [#12 - Wiggly Moustache](./01_Pilot%20Battle/%2312%20-%20Wiggly%20Moustache.html)
+- [x] [#12 - Wiggly Moustache](./01_Pilot%20Battle/%2312%20-%20Wiggly%20Moustache.html)
 
 
   ![#12 - Wiggly Moustache](./images/12.png)
