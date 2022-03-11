@@ -465,3 +465,24 @@
   ![#100 - CSSBattle](./images/100.png)
 
 </details>
+
+<details>
+ <summary style="font-size:30px;cursor:pointer">Battle #18 - Float</summary>
+
+- [x] [#97 - Sharingan]()
+
+  ![#97 - Sharingan](./images/101.png)
+
+- [x] [#98 - One Piece]()
+
+  ![#98 - One Piece](./images/102.png)
+
+- [ ] [#99 - ]()
+
+  ![#99 - ](./images/103.png)
+
+- [ ] [#100 - ]()
+
+  ![#100 - ](./images/104.png)
+
+</details>
