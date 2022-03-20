@@ -1,4 +1,6 @@
 # CSS-Battle
+## my solutions for css-battle
+Note that there are some solutoins that might be corrupted but still 100% match.
 
 ## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
