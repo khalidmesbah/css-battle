@@ -496,4 +496,8 @@ Note that there are some solutoins that might be corrupted but still 100% match.
 
   ![#119 - Pacman](./images/119.png)
 
+- [x] [#121 - Duck Hunt](./20_Hover/%23121%20-%20Duck%20Hunt.html)
+
+  ![#121 - Duck Hunt](./images/121.png)
+
 </details>
