@@ -471,20 +471,29 @@ Note that there are some solutoins that might be corrupted but still 100% match.
 <details>
  <summary style="font-size:30px;cursor:pointer">Battle #18 - Float</summary>
 
-- [x] [#97 - Sharingan]()
+- [x] [#101 - Sharingan](./18_Float/%23101%20-%20Sharingan.html)
 
-  ![#97 - Sharingan](./images/101.png)
+  ![#101 - Sharingan](./images/101.png)
 
-- [x] [#98 - One Piece]()
+- [] [#102 - One Piece](./18_Float/%23102%20-%20One%20Piece.html)
 
-  ![#98 - One Piece](./images/102.png)
+  ![#102 - One Piece](./images/102.png)
 
-- [ ] [#99 - ]()
+- [ ] [#103 - ]()
 
-  ![#99 - ](./images/103.png)
+  ![#103 - ](./images/103.png)
 
-- [ ] [#100 - ]()
+- [ ] [#104 - ]()
 
-  ![#100 - ](./images/104.png)
+  ![#104 - ](./images/104.png)
+
+</details>
+
+<details>
+ <summary style="font-size:30px;cursor:pointer">Battle #20 - Hover</summary>
+
+- [x] [#119 - Pacman](./20_Hover/%23119%20-%20Pacman.html)
+
+  ![#119 - Pacman](./images/119.png)
 
 </details>
