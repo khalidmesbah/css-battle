@@ -1,6 +1,17 @@
 # CSS-Battle
-## my solutions for css-battle
-Note that there are some solutoins that might be corrupted but still 100% match.
+> [Link for CSS Battle Website](https://cssbattle.dev/)
+
+## My solutions for the CSS battle website
+
+Note that there are some solutions listed below that might be corrupted but still 100% match, and others that no longer work.
+
+## Useful website i developed to know which unit is the shortest
+
+[CSS Unit Converter](https://khalidmesbah.github.io/Css-Unit-Converter/index.html)
+
+## Useful notes
+
+[My Notes]("./notes/Css-Battle-Solution.html")
 
 ## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
