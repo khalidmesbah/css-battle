@@ -11,7 +11,7 @@ Note that there are some solutions listed below that might be corrupted but stil
 
 ## Useful notes
 
-[My Notes]("./notes/Css-Battle-Solution.html")
+[My Notes](./notes/Css-Battle-Solution.html)
 
 ## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
