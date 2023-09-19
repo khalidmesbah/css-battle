@@ -1,5 +1,6 @@
 # CSS-Battle
 > [Link for CSS Battle Website](https://cssbattle.dev/)
+> [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
 
 ## My solutions for the CSS battle website
 
@@ -11,9 +12,7 @@ Note that there are some solutions listed below that might be corrupted but stil
 
 ## Useful notes
 
-[My Notes](./notes/Css-Battle-Solution.html)
-
-## [MY RANK](https://cssbattle.dev/player/NRClqjBuPcfhhmVfQNJzc7JqJJh1)
+[My Notes](./notes/notes.md)
 
 <details> <summary style="font-size:30px;cursor:pointer">Battle #1 - Pilot Battle</summary>
 
