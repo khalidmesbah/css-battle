@@ -15,6 +15,13 @@ Note that there are some solutions listed below that might be corrupted but stil
 
 [My Notes](./notes/notes.md)
 
+## Other resources
+
+- [CSS Battle Previewer](https://tc70f3.csb.app/)
+- [Discord Channel](https://discord.gg/bgkPrdqbdX)
+
+## My Solutions
+
 <details> <summary style="font-size:30px;cursor:pointer">Battle #1 - Pilot Battle</summary>
 
 - [x] [#1 - Simply Square](./01_Pilot%20Battle/%231%20-%20Simply%20Square.html)
